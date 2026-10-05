@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文带读导师"
+  short_description: "从科学问题到模块、公式和张量维度，循序渐进带读论文并整理笔记"
+  default_prompt: "请用 $paper-reading-tutor 带我读这篇论文，先解释科学问题和整体结构，再逐模块讲清公式与 shape。"
